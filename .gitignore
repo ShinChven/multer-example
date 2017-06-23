@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.vscode/
+.idea/
+
+node_modules/
+*.iml
+
+yarn.lock
+*.log
+
+public/uploads/
